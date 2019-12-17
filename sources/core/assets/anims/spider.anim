@@ -1,0 +1,28 @@
+5
+6 move_down true
+sprites/spider/spider_01.png
+sprites/spider/spider_02.png
+sprites/spider/spider_03.png
+sprites/spider/spider_04.png
+sprites/spider/spider_05.png
+sprites/spider/spider_06.png
+6 move_up true
+sprites/spider/spider_06.png
+sprites/spider/spider_05.png
+sprites/spider/spider_04.png
+sprites/spider/spider_03.png
+sprites/spider/spider_02.png
+sprites/spider/spider_01.png
+4 move_left true
+sprites/spider/spider_08.png
+sprites/spider/spider_06.png
+sprites/spider/spider_05.png
+sprites/spider/spider_09.png
+4 move_right true
+sprites/spider/spider_10.png
+sprites/spider/spider_03.png
+sprites/spider/spider_02.png
+sprites/spider/spider_09.png
+1 idle false
+sprites/spider/spider_09.png
+

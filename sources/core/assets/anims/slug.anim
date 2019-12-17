@@ -1,0 +1,24 @@
+5
+4 move_down true
+sprites/slug/slug_13.png
+sprites/slug/slug_14.png
+sprites/slug/slug_15.png
+sprites/slug/slug_16.png
+4 move_up true
+sprites/slug/slug_21.png
+sprites/slug/slug_22.png
+sprites/slug/slug_23.png
+sprites/slug/slug_24.png
+4 move_left true
+sprites/slug/slug_17.png
+sprites/slug/slug_18.png
+sprites/slug/slug_19.png
+sprites/slug/slug_20.png
+4 move_right true
+sprites/slug/slug_25.png
+sprites/slug/slug_26.png
+sprites/slug/slug_27.png
+sprites/slug/slug_28.png
+1 idle false
+sprites/slug/slug_02.png
+

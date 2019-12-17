@@ -1,0 +1,73 @@
+16
+1 idle_down false
+sprites/pipyakas/pipyaka_01.png
+1 idle_up false
+sprites/pipyakas/pipyaka_07.png
+1 idle_left false
+sprites/pipyakas/pipyaka_04.png
+1 idle_right false
+sprites/pipyakas/pipyaka_10.png
+4 rotate_down_to_left false
+sprites/pipyakas/pipyaka_01.png
+sprites/pipyakas/pipyaka_02.png
+sprites/pipyakas/pipyaka_03.png
+sprites/pipyakas/pipyaka_04.png
+4 rotate_left_to_down false
+sprites/pipyakas/pipyaka_04.png
+sprites/pipyakas/pipyaka_03.png
+sprites/pipyakas/pipyaka_02.png
+sprites/pipyakas/pipyaka_01.png
+4 rotate_left_to_up false
+sprites/pipyakas/pipyaka_04.png
+sprites/pipyakas/pipyaka_05.png
+sprites/pipyakas/pipyaka_06.png
+sprites/pipyakas/pipyaka_07.png
+4 rotate_up_to_left false
+sprites/pipyakas/pipyaka_07.png
+sprites/pipyakas/pipyaka_06.png
+sprites/pipyakas/pipyaka_05.png
+sprites/pipyakas/pipyaka_04.png
+4 rotate_up_to_right false
+sprites/pipyakas/pipyaka_07.png
+sprites/pipyakas/pipyaka_08.png
+sprites/pipyakas/pipyaka_09.png
+sprites/pipyakas/pipyaka_10.png
+4 rotate_right_to_up false
+sprites/pipyakas/pipyaka_10.png
+sprites/pipyakas/pipyaka_09.png
+sprites/pipyakas/pipyaka_08.png
+sprites/pipyakas/pipyaka_07.png
+4 rotate_right_to_down false
+sprites/pipyakas/pipyaka_10.png
+sprites/pipyakas/pipyaka_11.png
+sprites/pipyakas/pipyaka_12.png
+sprites/pipyakas/pipyaka_01.png
+4 rotate_down_to_right false
+sprites/pipyakas/pipyaka_01.png
+sprites/pipyakas/pipyaka_12.png
+sprites/pipyakas/pipyaka_11.png
+sprites/pipyakas/pipyaka_10.png
+5 move_down true
+sprites/pipyakas/pipyaka_13.png
+sprites/pipyakas/pipyaka_14.png
+sprites/pipyakas/pipyaka_15.png
+sprites/pipyakas/pipyaka_16.png
+sprites/pipyakas/pipyaka_17.png
+5 move_left true
+sprites/pipyakas/pipyaka_18.png
+sprites/pipyakas/pipyaka_19.png
+sprites/pipyakas/pipyaka_20.png
+sprites/pipyakas/pipyaka_21.png
+sprites/pipyakas/pipyaka_22.png
+5 move_up true
+sprites/pipyakas/pipyaka_23.png
+sprites/pipyakas/pipyaka_24.png
+sprites/pipyakas/pipyaka_25.png
+sprites/pipyakas/pipyaka_26.png
+sprites/pipyakas/pipyaka_27.png
+5 move_right true
+sprites/pipyakas/pipyaka_28.png
+sprites/pipyakas/pipyaka_29.png
+sprites/pipyakas/pipyaka_30.png
+sprites/pipyakas/pipyaka_31.png
+sprites/pipyakas/pipyaka_32.png
